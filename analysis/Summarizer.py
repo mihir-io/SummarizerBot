@@ -25,6 +25,7 @@ def summarize_text(textbody):
 
 
 def main():
+    # Random comment from reddit.com/r/tifu to test with.
     print(summarize_text(
         "Ok. So. I am a bartender at a pretty popular place where I live. Last night I worked and after work around"
         " midnight I'm rolling silverware and having an after work beer. The barback walks up to me and says"
