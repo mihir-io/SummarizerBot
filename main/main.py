@@ -48,7 +48,7 @@ def summarize(bot, update):
 def main():
     # Create the EventHandler and pass it your bot's token.
 
-    updater = Updater("***REMOVED***")
+    updater = Updater("[TOKEN GOES HERE]")
 
     # Get the dispatcher to register handlers
 
