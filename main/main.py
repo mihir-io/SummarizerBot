@@ -48,7 +48,7 @@ def summarize(bot, update):
 def main():
     # Create the EventHandler and pass it your bot's token.
 
-    updater = Updater("241750668:AAF361s9RNfOTl94U9jQKTIKA8apsXP5oMo")
+    updater = Updater("[TOKEN GOES HERE]")
 
     # Get the dispatcher to register handlers
 
