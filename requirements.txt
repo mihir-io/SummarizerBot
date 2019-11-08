@@ -26,7 +26,7 @@ pylint==1.6.4
 python-dateutil==2.5.3
 python-telegram-bot==5.0.0
 PyYAML==5.1
-requests==2.10.0
+requests==2.20.0
 requests-file==1.4
 scipy==0.18.0rc2
 six==1.10.0
